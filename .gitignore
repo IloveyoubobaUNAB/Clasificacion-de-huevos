@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Secrets / credenciales - nunca subir
+*.pem
+.env
+.env.*
+
+# OS
+.DS_Store
